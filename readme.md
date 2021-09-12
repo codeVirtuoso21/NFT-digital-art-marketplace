@@ -2,15 +2,6 @@
 
 # BayyNet NFT art platform
 
-[![GitHub stars](https://img.shields.io/github/stars/spaceboy0621/NFT-Art-Platform.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/spaceboy0621/NFT-Art-Platform/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/spaceboy0621/NFT-Art-Platform.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/spaceboy0621/NFT-Art-Platform/network/)
-
-<p>
-    <a href="#About">About</a> •
-    <a href="#Features">Features</a> •
-    <a href="#Installation">Installation</a> •
-    <a href="#My-socials">My socials</a>
-</p>
-
 ## About
 
 A NFT-art marketplace where you can create new NFTs and trade them with others. Trades are added to a blockchain for increased security. Visit the website here: https://bayynet.herokuapp.com/
