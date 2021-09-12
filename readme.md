@@ -2,7 +2,7 @@
 
 # BayyNet NFT art platform
 
-[![GitHub stars](https://img.shields.io/github/stars/WilliamTuominiemi/NFT-Art-Platform.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/WilliamTuominiemi/NFT-Art-Platform/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/WilliamTuominiemi/NFT-Art-Platform.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/WilliamTuominiemi/NFT-Art-Platform/network/)
+[![GitHub stars](https://img.shields.io/github/stars/spaceboy0621/NFT-Art-Platform.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/spaceboy0621/NFT-Art-Platform/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/spaceboy0621/NFT-Art-Platform.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/spaceboy0621/NFT-Art-Platform/network/)
 
 <p>
     <a href="#About">About</a> •
@@ -47,8 +47,8 @@ Basic ledger that saves information about the trade transactions.
 
 ## My socials
 
--   :email: Email: william.m.tuominiemi@gmail.com
--   :link: Github: https://github.com/WilliamTuominiemi
+-   :email: Email: athena.spaceboy21@gmail.com
+-   :link: Github: https://github.com/spaceboy0621
 
 ## License
 
