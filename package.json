@@ -1,12 +1,12 @@
 {
   "name": "bayynet",
   "version": "1.0.0",
-  "description": "NFT art platform ",
+  "description": "NFT art Marketplace ",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "William Tuominiemi",
+  "author": "Spaceboy Athena",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -29,13 +29,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WilliamTuominiemi/NFT-art-marketplace.git"
+    "url": "git+https://github.com/Spaceboy0621/NFT-digital-art-marketplace"
   },
   "keywords": [
     "NFT"
   ],
   "bugs": {
-    "url": "https://github.com/WilliamTuominiemi/NFT-art-marketplace/issues"
+    "url": "https://github.com/Spaceboy0621/NFT-digital-art-marketplace/issues"
   },
-  "homepage": "https://github.com/WilliamTuominiemi/NFT-art-marketplace#readme"
+  "homepage": "https://github.com/Spaceboy0621/NFT-digital-art-marketplace#readme"
 }
